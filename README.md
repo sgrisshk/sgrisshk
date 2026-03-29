@@ -59,11 +59,10 @@ Student-led IT org. React + TypeScript + TailwindCSS + Storybook. Standardized d
 
 **PoKruju** — international rental platform · *Founder & Fullstack* · May 2025 – present  
 Built from scratch: React + Django + PostgreSQL. JWT/role-based auth, WebSocket real-time updates, Docker across dev/staging/prod, full UI/UX ownership in Figma.  
-→ [github.com/sgrisshk/pokruju](https://github.com/sgrisshk/pokruju)
+
 
 **Radar Bird Classifier** — AI Cup 2026 · *Solo* · Mar 2026  
 Radar-based bird species classification for wind farm curtailment decisions. LightGBM OvR, 130+ engineered features from trajectory/altitude/RCS signals, adversarial feature filtering to handle distribution shift, temporal CV with month-stress weighting, softmax calibration. Also wrote a full deployment proposal covering decision logic, human oversight, and adaptive recalibration. Top third overall.  
-→ [github.com/sgrisshk/bird-radar-classification](https://github.com/sgrisshk/bird-radar-classification)
 
 **BMSTU Web Hackathon 2025** — 🥇 First prize · React + TypeScript + Go · team lead
 
@@ -79,13 +78,6 @@ Radar-based bird species classification for wind farm curtailment decisions. Lig
 **Bauman MSTU, Moscow** · BSc Computer Science · Sep 2023 – Aug 2024 · GPA 5.0/5.0
 
 Additional: Computer Science (Seoul National University), IT design/architecture school (GPA 5.0/5.0), Economics Summer School (HSE).
-
----
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sgrisshk&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgrisshk&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
