@@ -49,7 +49,7 @@ Enterprise IT solutions. Scalable frontend for data-driven web apps, modular com
 **PluxBox** · Fullstack Developer · Oct 2025 – present  
 Media & cloud software. New features across the stack: TypeScript, Node.js, GraphQL, MongoDB. Agile/Scrum, Dockerized dev environment, component documentation and testing.
 
-**DocScout** · Designer & Frontend Developer · Jan 2025 – present  
+**DocScout** · Designer & Frontend Developer · Jan 2025 – April 2026  
 Medical IT startup. Data-intensive dashboards with ag-Grid, dynamic data from PostgreSQL via backend APIs, TypeScript components, Docker-based dev setup.
 
 **Central Asia Kicksharing** · Designer & Frontend Developer · Jul – Oct 2025  
