@@ -1,11 +1,11 @@
-# Hi, I'm Sofya 👋
+# Hi, I'm Sofya :)
 
 Fullstack developer and CS student at **Maastricht University** (BSc, Netherlands).  
 I started coding at 16, went through a Moscow technical university, then moved to the Netherlands to keep going.
 
-My main thing is web — I like building systems that are clean under the hood and actually pleasant to use. I've worked across the stack: from design systems and dashboards to backend APIs, real-time features, and containerized deployments. I'm comfortable owning a feature end-to-end, from Figma to production.
+My main thing is web - I like building systems that are clean under the hood and actually pleasant to use. I've worked across the stack: from design systems and dashboards to backend APIs, real-time features, and containerized deployments. I'm comfortable owning a feature end-to-end, from Figma to production.
 
-Outside of web, I occasionally venture into ML — most recently spending two months on a radar-based bird classifier for wind farms as part of a national AI competition. It was humbling and genuinely interesting.
+Outside of web, I occasionally venture into ML - most recently spending two months on a radar-based bird classifier for wind farms as part of a national AI competition. It was humbling and genuinely interesting.
 
 I work well in cross-functional teams, have shipped production code across four companies simultaneously, and tend to care too much about component architecture.
 
