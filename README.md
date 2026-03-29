@@ -1,17 +1,93 @@
-# :sparkles: About Me:
-:mortar_board: Student of Faculty of Science and Engineering (BSc Computer Science) in Maastricht University, Netherlands<br>:computer: Trying my hand in various programming fields<br>:speech_balloon: Currently a part of IT'S Tech team (IT organisation in Bauman Moscow State Technical University, Russia)<br>:dart: Open for cooperation and new projects
+# Hi, I'm Sofya 👋
 
+Fullstack developer and CS student at **Maastricht University** (BSc, Netherlands).  
+I started coding at 16, went through a Moscow technical university, then moved to the Netherlands to keep going.
 
-##  :calling: Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grisshk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grisshk) 
+My main thing is web — I like building systems that are clean under the hood and actually pleasant to use. I've worked across the stack: from design systems and dashboards to backend APIs, real-time features, and containerized deployments. I'm comfortable owning a feature end-to-end, from Figma to production.
+
+Outside of web, I occasionally venture into ML — most recently spending two months on a radar-based bird classifier for wind farms as part of a national AI competition. It was humbling and genuinely interesting.
+
+I work well in cross-functional teams, have shipped production code across four companies simultaneously, and tend to care too much about component architecture.
+
+---
+
+## Stack
+
+**Frontend**  
+React, TypeScript, Astro, Next.js, TailwindCSS, Bootstrap, Storybook, React Hook Form, React Query, Context API, HTML5, CSS3
+
+**Backend & APIs**  
+Node.js, Django, GraphQL, REST, WebSockets, JWT, OAuth, Python, Go, Java, C++
+
+**Databases**  
+PostgreSQL, MongoDB, MySQL
+
+**Infrastructure**  
+Docker, Kubernetes, Portainer, GitLab CI/CD, containerized deployments
+
+**Design**  
+Figma (wireframes, user flows, design systems, component libraries), Canva, Adobe Photoshop, Lightroom, Blender
+
+**ML & Data**  
+Python, LightGBM, feature engineering, temporal cross-validation, adversarial feature selection, class imbalance handling
+
+**Languages**  
+Russian (native) · English (C1, IELTS) · Dutch (beginner)
+
+---
+
+## Work
+
+**INTBIS** · Fullstack Developer · Jan 2026 – present  
+Enterprise IT solutions. Scalable frontend for data-driven web apps, modular component architecture, API integration with caching and state management. CI/CD on GitLab, Docker + Portainer deployments.
+
+**PluxBox** · Fullstack Developer · Oct 2025 – present  
+Media & cloud software. New features across the stack: TypeScript, Node.js, GraphQL, MongoDB. Agile/Scrum, Dockerized dev environment, component documentation and testing.
+
+**DocScout** · Designer & Frontend Developer · Jan 2025 – present  
+Medical IT startup. Data-intensive dashboards with ag-Grid, dynamic data from PostgreSQL via backend APIs, TypeScript components, Docker-based dev setup.
+
+**Central Asia Kicksharing** · Designer & Frontend Developer · Jul – Oct 2025  
+International micromobility startup. Frontend with Astro + TypeScript, UI components and routing, Figma-to-code.
+
+**BMSTU IT'S Tech** · Designer & Frontend Developer · Mar 2024 – Jun 2025  
+Student-led IT org. React + TypeScript + TailwindCSS + Storybook. Standardized design system and component library, 100+ active users.
+
+---
+
+## Projects
+
+**PoKruju** — international rental platform · *Founder & Fullstack* · May 2025 – present  
+Built from scratch: React + Django + PostgreSQL. JWT/role-based auth, WebSocket real-time updates, Docker across dev/staging/prod, full UI/UX ownership in Figma.  
+→ [github.com/sgrisshk/pokruju](https://github.com/sgrisshk/pokruju)
+
+**Radar Bird Classifier** — AI Cup 2026 · *Solo* · Mar 2026  
+Radar-based bird species classification for wind farm curtailment decisions. LightGBM OvR, 130+ engineered features from trajectory/altitude/RCS signals, adversarial feature filtering to handle distribution shift, temporal CV with month-stress weighting, softmax calibration. Also wrote a full deployment proposal covering decision logic, human oversight, and adaptive recalibration. Top third overall.  
+→ [github.com/sgrisshk/bird-radar-classification](https://github.com/sgrisshk/bird-radar-classification)
+
+**BMSTU Web Hackathon 2025** — 🥇 First prize · React + TypeScript + Go · team lead
+
+**O! Hackathon (Ostrovok Tech) 2025** · Travel-tech · React + Go + PostgreSQL
+
+**BMSTU Web Hackathon 2023** — 🥉 Third prize · React + JavaScript + MongoDB · youngest team
+
+---
+
+## Education
+
+**Maastricht University** · BSc Computer Science · Sep 2024 – present · GPA 7.0/10.0  
+**Bauman MSTU, Moscow** · BSc Computer Science · Sep 2023 – Aug 2024 · GPA 5.0/5.0
+
+Additional: Computer Science (Seoul National University), IT design/architecture school (GPA 5.0/5.0), Economics Summer School (HSE).
+
+---
+
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sgrisshk&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgrisshk&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishkova-sofya-borisovna)
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sgrisshk&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sgrisshk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgrisshk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grisshk)
