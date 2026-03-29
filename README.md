@@ -57,7 +57,7 @@ Student-led IT org. React + TypeScript + TailwindCSS + Storybook. Standardized d
 
 ## Projects
 
-**PoKruju** — international rental platform · *Founder & Fullstack* · May 2025 – present  
+**PoKrugu** — international rental platform · *Founder & Fullstack* · May 2025 – present  
 Built from scratch: React + Django + PostgreSQL. JWT/role-based auth, WebSocket real-time updates, Docker across dev/staging/prod, full UI/UX ownership in Figma.  
 
 
