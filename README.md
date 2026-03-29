@@ -1,4 +1,9 @@
 # Hi, I'm Sofya :)
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishkova-sofya-borisovna)
+
+---
 
 Fullstack developer and CS student at **Maastricht University** (BSc, Netherlands).  
 I started coding at 16, went through a Moscow technical university, then moved to the Netherlands to keep going.
@@ -79,6 +84,4 @@ Radar-based bird species classification for wind farm curtailment decisions. Lig
 
 Additional: Computer Science (Seoul National University), IT design/architecture school (GPA 5.0/5.0), Economics Summer School (HSE).
 
----
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishkova-sofya-borisovna)
