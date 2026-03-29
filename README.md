@@ -3,6 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishkova-sofya-borisovna)
 
+Let's connect! 
+
 ---
 
 Fullstack developer and CS student at **Maastricht University** (BSc, Netherlands).  
